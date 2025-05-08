@@ -1,7 +1,9 @@
 Mega Project List
 ========
 
-A list of practical projects that anyone can solve in any programming language (See [solutions](https://github.com/thekarangoel/Projects-Solutions)). 
+A list of practical projects that anyone can solve in any programming language.
+
+I will attempt to create every project in Python and Java. 
 
 ## Credits
 
