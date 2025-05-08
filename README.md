@@ -9,19 +9,19 @@ This repo was compiled by [Karan Goel](http://twitter.com/karangoel).
 
 ## Table of Contents
 
-- [Numbers](https://github.com/daviddhnguyen/CodingProjectPractice/blob/main/README.md#numbers)
-- [Classic Algorithms](https://github.com/daviddhnguyen/Projects#classic-algorithms)
-- [Graph](https://github.com/daviddhnguyen/Projects#graph)
-- [Data Structures](https://github.com/daviddhnguyen/Projects#data-structures)
-- [Text](https://github.com/daviddhnguyen/Projects#text)
-- [Networking](https://github.com/daviddhnguyen/Projects#networking)
-- [Classes](https://github.com/daviddhnguyen/Projects#classes)
-- [Threading](https://github.com/daviddhnguyen/Projects#threading)
-- [Web](https://github.com/daviddhnguyen/Projects#web)
-- [Files](https://github.com/daviddhnguyen/Projects#files)
-- [Databases](https://github.com/daviddhnguyen/Projects#databases)
-- [Graphics and Multimedia](https://github.com/daviddhnguyen/Projects#graphics-and-multimedia)
-- [Security](https://github.com/daviddhnguyen/Projects#security)
+- [Numbers](https://github.com/daviddhnguyen/CodingProjectPractice/tree/main?tab=readme-ov-file#numbers)
+- [Classic Algorithms](https://github.com/daviddhnguyen/CodingProjectPractice/tree/main?tab=readme-ov-file#classic-algorithms)
+- [Graph](https://github.com/daviddhnguyen/CodingProjectPractice/tree/main?tab=readme-ov-file#graph)
+- [Data Structures](https://github.com/daviddhnguyen/CodingProjectPractice/tree/main?tab=readme-ov-file#data-structures)
+- [Text](https://github.com/daviddhnguyen/CodingProjectPractice/tree/main?tab=readme-ov-file#text)
+- [Networking]
+- [Classes]
+- [Threading]
+- [Web]
+- [Files]
+- [Databases]
+- [Graphics and Multimedia]
+- [Security]
 
 Numbers
 ---------
