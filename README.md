@@ -9,7 +9,7 @@ This repo was compiled by [Karan Goel](http://twitter.com/karangoel).
 
 ## Table of Contents
 
-- [Numbers](https://github.com/daviddhnguyen/Projects#numbers)
+- [Numbers](https://github.com/daviddhnguyen/CodingProjectPractice/blob/main/README.md#numbers)
 - [Classic Algorithms](https://github.com/daviddhnguyen/Projects#classic-algorithms)
 - [Graph](https://github.com/daviddhnguyen/Projects#graph)
 - [Data Structures](https://github.com/daviddhnguyen/Projects#data-structures)
