@@ -1,4 +1,4 @@
-from src.py_find_pi_n.find_pi import find_pi
+from src.python_solutions.find_pi import find_pi
 
 def test_find_pi():
     result = find_pi(5)
