@@ -13,6 +13,8 @@ dependencies = [
 [tool.poetry]
 packages = [{include = "codingprojectpractice", from = "src"}]
 
+[tool.poetry.dev-dependencies]
+pytest = "^6.0"  # Ensure you have pytest as a dev dependency
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
