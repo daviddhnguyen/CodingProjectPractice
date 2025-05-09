@@ -1,5 +1,5 @@
 [project]
-name = "python-solutions"
+name = "codingprojectpractice"
 version = "0.1.0"
 description = ""
 authors = [
@@ -11,7 +11,7 @@ dependencies = [
 ]
 
 [tool.poetry]
-packages = [{include = "python_solutions", from = "src"}]
+packages = [{include = "codingprojectpractice", from = "src"}]
 
 
 [build-system]
