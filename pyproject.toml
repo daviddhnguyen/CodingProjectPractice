@@ -11,7 +11,7 @@ dependencies = [
 ]
 
 [tool.poetry]
-packages = [{include = "src/codingprojectpractice", from = "src"}]
+packages = [{include = "codingprojectpractice", from = "src"}]
 
 
 [build-system]
