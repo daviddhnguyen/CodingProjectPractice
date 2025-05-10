@@ -19,6 +19,9 @@ jobs:
         with:
           python-version: 3.12
 
+      # Install missing six.move module
+      - run: pip install --upgrade six
+
       # Cache the installation of Poetry itself, e.g. the next step. This prevents the workflow
       # from installing Poetry every time, which can be slow. Note the use of the Poetry version
       # number in the cache key, and the "-0" suffix: this allows you to invalidate the cache
